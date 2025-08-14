@@ -717,15 +717,15 @@ export default function CareerWebsite() {
                     <div className="flex items-center space-x-3 mb-3 lg:mb-4">
                       <Phone className="w-4 h-4 lg:w-5 lg:h-5 text-emerald-400" />
                       <a
-                        href="tel:08390881115"
+                        href="tel:8390881115"
                         className="text-emerald-400 hover:text-emerald-300 transition-colors duration-300 font-semibold text-base lg:text-lg"
                       >
-                        083908 81115
+                        83908 81115
                       </a>
                     </div>
                     <div className="flex gap-2 lg:gap-3">
                       <a
-                        href="tel:08390881115"
+                        href="tel:8390881115"
                         className="flex items-center space-x-2 bg-emerald-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-emerald-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
                       >
                         <Phone className="w-3 h-3 lg:w-4 lg:h-4" />
@@ -1173,7 +1173,7 @@ export default function CareerWebsite() {
                   <div className="p-4 lg:p-6 bg-gradient-to-r from-amber-500/10 to-orange-600/10 rounded-2xl border border-amber-500/20">
                     <h3 className="text-lg lg:text-xl font-bold bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent mb-4 flex items-center">
                       <Briefcase className="w-5 h-5 lg:w-6 lg:h-6 mr-3 text-amber-400" />
-                      Job Preferences
+                      Work Preferences
                     </h3>
                     <div>
                       <label className="block text-sm font-semibold text-white mb-2">Preferred Role *</label>
@@ -1336,4 +1336,5 @@ function SubmitInquiryButton() {
             )}
         </button>
     );
+
 }
