@@ -1183,7 +1183,7 @@ export default function CareerWebsite() {
                         required
                         className="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg text-white focus:border-blue-500 focus:ring-1 focus:ring-blue-500/30 transition-all duration-300 hover:border-gray-500 text-sm lg:text-base"
                       >
-                        <option value="" disabled>Select your preferred role</option>
+                        <option value="" disabled selected>Select your preferred role</option>
                         <option value="digital-marketing">Digital Marketing Specialist</option>
                         <option value="system-management">System Management</option>
                         <option value="customer-relations">Customer Relations</option>
@@ -1340,4 +1340,5 @@ function SubmitInquiryButton() {
     );
 
 }
+
 
