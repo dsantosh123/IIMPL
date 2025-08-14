@@ -1198,7 +1198,7 @@ export default function CareerWebsite() {
                   <div className="p-4 lg:p-6 bg-gradient-to-r from-pink-500/10 to-red-600/10 rounded-2xl border border-pink-500/20">
                     <h3 className="text-lg lg:text-xl font-bold bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent mb-4 flex items-center">
                       <Upload className="w-5 h-5 lg:w-6 lg:h-6 mr-3 text-pink-400" />
-                      Upload Documents
+                      Upload Documents (max 4 MB)
                     </h3>
                     <div className="grid sm:grid-cols-2 gap-4 mb-4">
                       <div>
@@ -1340,5 +1340,6 @@ function SubmitInquiryButton() {
     );
 
 }
+
 
 
