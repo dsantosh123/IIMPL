@@ -180,7 +180,7 @@ export default function CareerWebsite() {
                 <h1 className="text-lg lg:text-2xl font-bold bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent">
                   Internacia India
                 </h1>
-                <p className="text-xs lg:text-sm text-gray-400 font-medium">Mrk Pvt Ltd</p>
+                <p className="text-xs lg:text-sm text-gray-400 font-medium">Mkt Pvt Ltd</p>
               </div>
             </div>
 
@@ -1340,6 +1340,7 @@ function SubmitInquiryButton() {
     );
 
 }
+
 
 
 
