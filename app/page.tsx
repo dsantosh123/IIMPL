@@ -947,7 +947,7 @@ export default function CareerWebsite() {
                 </div>
                 <div>
                   <h3 className="text-lg lg:text-xl font-bold bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent">
-                    Internacia India Mrk Pvt Ltd
+                    Internacia India Mkt Pvt Ltd
                   </h3>
                   <p className="text-gray-400 text-xs lg:text-sm">Government Certified Excellence</p>
                 </div>
@@ -1016,7 +1016,7 @@ export default function CareerWebsite() {
           {/* Bottom Footer */}
           <div className="pt-6 lg:pt-8 border-t border-gray-700 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-xs lg:text-sm mb-4 md:mb-0">
-              © 2024 Internacia India Mrk Pvt Ltd. All rights reserved.
+              © 2024 Internacia India Mkt Pvt Ltd. All rights reserved.
             </p>
             <div className="flex items-center space-x-4">
               <span className="text-gray-400 text-xs lg:text-sm">Follow us:</span>
@@ -1340,6 +1340,7 @@ function SubmitInquiryButton() {
     );
 
 }
+
 
 
 
