@@ -752,7 +752,7 @@ export default function CareerWebsite() {
                     <User className="w-8 h-8 lg:w-10 lg:h-10 text-white" />
                   </div>
                   <div className="flex-1">
-                    <h4 className="text-xl lg:text-2xl font-bold text-white mb-2">Vansh Kayarkar</h4>
+                    <h4 className="text-xl lg:text-2xl font-bold text-white mb-2">Shakshi  Indurkar</h4>
                     <div className="flex items-center space-x-3 mb-3 lg:mb-4">
                       <Phone className="w-4 h-4 lg:w-5 lg:h-5 text-emerald-400" />
                       <a
@@ -764,14 +764,14 @@ export default function CareerWebsite() {
                     </div>
                     <div className="flex gap-2 lg:gap-3">
                       <a
-                        href="tel:8975747102"
+                        href="tel:84324 65868"
                         className="flex items-center space-x-2 bg-emerald-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-emerald-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
                       >
                         <Phone className="w-3 h-3 lg:w-4 lg:h-4" />
                         <span>Call</span>
                       </a>
                       <a
-                        href="https://wa.me/8975747102"
+                        href="https://wa.me/84324 65868"
                         target="_blank"
                         className="flex items-center space-x-2 bg-green-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-green-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
                         rel="noreferrer"
@@ -1340,6 +1340,7 @@ function SubmitInquiryButton() {
     );
 
 }
+
 
 
 
