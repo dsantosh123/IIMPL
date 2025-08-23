@@ -756,10 +756,10 @@ export default function CareerWebsite() {
                     <div className="flex items-center space-x-3 mb-3 lg:mb-4">
                       <Phone className="w-4 h-4 lg:w-5 lg:h-5 text-emerald-400" />
                       <a
-                        href="tel:8975747102"
+                        href="tel:8432465868"
                         className="text-emerald-400 hover:text-emerald-300 transition-colors duration-300 font-semibold text-base lg:text-lg"
                       >
-                        8975747102
+                        8432465868
                       </a>
                     </div>
                     <div className="flex gap-2 lg:gap-3">
@@ -1340,6 +1340,7 @@ function SubmitInquiryButton() {
     );
 
 }
+
 
 
 
