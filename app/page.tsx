@@ -771,7 +771,7 @@ export default function CareerWebsite() {
                         <span>Call</span>
                       </a>
                       <a
-                        href="https://wa.me/+9184324 65868"
+                        href="https://wa.me/918432465868"
                         target="_blank"
                         className="flex items-center space-x-2 bg-green-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-green-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
                         rel="noreferrer"
@@ -1340,6 +1340,7 @@ function SubmitInquiryButton() {
     );
 
 }
+
 
 
 
