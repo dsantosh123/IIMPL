@@ -876,14 +876,14 @@ export default function CareerWebsite() {
                 </h4>
                 <div className="flex flex-col sm:flex-row justify-center gap-3 lg:gap-4">
                   <a
-                    href="tel:8975747102"
+                    href="tel:+917841916689"
                     className="flex items-center justify-center space-x-3 bg-gradient-to-r from-emerald-500 to-emerald-600 text-white px-6 py-3 lg:px-8 lg:py-4 rounded-xl hover:from-emerald-600 hover:to-emerald-700 transition-all duration-300 transform hover:scale-105 shadow-lg font-semibold text-sm lg:text-base"
                   >
                     <Phone className="w-4 h-4 lg:w-6 lg:h-6" />
                     <span>Call Now</span>
                   </a>
                   <a
-                    href="https://wa.me/8975747102"
+                    href="https://wa.me/+917841916689"
                     target="_blank"
                     className="flex items-center justify-center space-x-3 bg-gradient-to-r from-green-500 to-green-600 text-white px-6 py-3 lg:px-8 lg:py-4 rounded-xl hover:from-green-600 hover:to-green-700 transition-all duration-300 transform hover:scale-105 shadow-lg font-semibold text-sm lg:text-base"
                     rel="noreferrer"
@@ -922,10 +922,10 @@ export default function CareerWebsite() {
                   <div className="text-center">
                     <p className="text-gray-400 text-xs lg:text-sm">or call directly:</p>
                     <a
-                      href="tel:8975747102"
+                      href="tel:+917841916689"
                       className="text-emerald-400 font-bold text-base lg:text-lg hover:text-emerald-300 transition-colors duration-300"
                     >
-                      8975747102
+                      7841916689
                     </a>
                   </div>
                 </div>
@@ -1340,6 +1340,7 @@ function SubmitInquiryButton() {
     );
 
 }
+
 
 
 
