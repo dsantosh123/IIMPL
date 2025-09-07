@@ -746,44 +746,43 @@ export default function CareerWebsite() {
               </div>
 
               {/* Contact Person 2 */}
-              <div className="bg-gray-800/60 backdrop-blur-xl border border-gray-700 rounded-2xl p-4 lg:p-6 hover:border-blue-500/50 transition-all duration-300">
-                <div className="flex items-center space-x-4 lg:space-x-6">
-                  <div className="w-16 h-16 lg:w-20 lg:h-20 bg-gradient-to-r from-emerald-500 to-green-600 rounded-2xl flex items-center justify-center shadow-lg">
-                    <User className="w-8 h-8 lg:w-10 lg:h-10 text-white" />
-                  </div>
-                  <div className="flex-1">
-                    <h4 className="text-xl lg:text-2xl font-bold text-white mb-2">Shakshi  Indurkar</h4>
-                    <div className="flex items-center space-x-3 mb-3 lg:mb-4">
-                      <Phone className="w-4 h-4 lg:w-5 lg:h-5 text-emerald-400" />
-                      <a
-                        href="tel:+918432465868"
-                        className="text-emerald-400 hover:text-emerald-300 transition-colors duration-300 font-semibold text-base lg:text-lg"
-                      >
-                        8432465868
-                      </a>
-                    </div>
-                    <div className="flex gap-2 lg:gap-3">
-                      <a
-                        href="tel:+9184324 65868"
-                        className="flex items-center space-x-2 bg-emerald-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-emerald-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
-                      >
-                        <Phone className="w-3 h-3 lg:w-4 lg:h-4" />
-                        <span>Call</span>
-                      </a>
-                      <a
-                        href="https://wa.me/918432465868"
-                        target="_blank"
-                        className="flex items-center space-x-2 bg-green-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-green-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
-                        rel="noreferrer"
-                      >
-                        <MessageCircle className="w-3 h-3 lg:w-4 lg:h-4" />
-                        <span>WhatsApp</span>
-                      </a>
-                    </div>
-                  </div>
-                </div>
+        <div className="bg-gray-800/60 backdrop-blur-xl border border-gray-700 rounded-2xl p-4 lg:p-6 hover:border-blue-500/50 transition-all duration-300">
+          <div className="flex items-center space-x-4 lg:space-x-6">
+            <div className="w-16 h-16 lg:w-20 lg:h-20 bg-gradient-to-r from-emerald-500 to-green-600 rounded-2xl flex items-center justify-center shadow-lg">
+              <User className="w-8 h-8 lg:w-10 lg:h-10 text-white" />
+            </div>
+            <div className="flex-1">
+              <h4 className="text-xl lg:text-2xl font-bold text-white mb-2">Shakshi Indurkar</h4>
+              <div className="flex items-center space-x-3 mb-3 lg:mb-4">
+                <Phone className="w-4 h-4 lg:w-5 lg:h-5 text-emerald-400" />
+                <a
+                  href="tel:+918432465868"
+                  className="text-emerald-400 hover:text-emerald-300 transition-colors duration-300 font-semibold text-base lg:text-lg"
+                >
+                  8432465868
+                </a>
               </div>
-
+              <div className="flex gap-2 lg:gap-3">
+                <a
+                  href="tel:+918432465868"
+                  className="flex items-center space-x-2 bg-emerald-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-emerald-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
+                >
+                  <Phone className="w-3 h-3 lg:w-4 lg:h-4" />
+                  <span>Call</span>
+                </a>
+                <a
+                  href="https://wa.me/918432465868"
+                  target="_blank"
+                  className="flex items-center space-x-2 bg-green-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-green-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
+                  rel="noreferrer"
+                >
+                  <MessageCircle className="w-3 h-3 lg:w-4 lg:h-4" />
+                  <span>WhatsApp</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
               {/* Contact Person 3 */}
               <div className="bg-gray-800/60 backdrop-blur-xl border border-gray-700 rounded-2xl p-4 lg:p-6 hover:border-blue-500/50 transition-all duration-300">
                 <div className="flex items-center space-x-4 lg:space-x-6">
@@ -1340,6 +1339,7 @@ function SubmitInquiryButton() {
     );
 
 }
+
 
 
 
