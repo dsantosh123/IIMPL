@@ -717,7 +717,7 @@ export default function CareerWebsite() {
                     <div className="flex items-center space-x-3 mb-3 lg:mb-4">
                       <Phone className="w-4 h-4 lg:w-5 lg:h-5 text-emerald-400" />
                       <a
-                        href="tel:8390881115"
+                        href="tel:+918390881115"
                         className="text-emerald-400 hover:text-emerald-300 transition-colors duration-300 font-semibold text-base lg:text-lg"
                       >
                         83908 81115
@@ -725,14 +725,14 @@ export default function CareerWebsite() {
                     </div>
                     <div className="flex gap-2 lg:gap-3">
                       <a
-                        href="tel:8390881115"
+                        href="tel:+918390881115"
                         className="flex items-center space-x-2 bg-emerald-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-emerald-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
                       >
                         <Phone className="w-3 h-3 lg:w-4 lg:h-4" />
                         <span>Call</span>
                       </a>
                       <a
-                        href="https://wa.me/08390881115"
+                        href="https://wa.me/+918390881115"
                         target="_blank"
                         className="flex items-center space-x-2 bg-green-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-green-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
                         rel="noreferrer"
@@ -756,7 +756,7 @@ export default function CareerWebsite() {
                     <div className="flex items-center space-x-3 mb-3 lg:mb-4">
                       <Phone className="w-4 h-4 lg:w-5 lg:h-5 text-emerald-400" />
                       <a
-                        href="tel:8432465868"
+                        href="tel:+918432465868"
                         className="text-emerald-400 hover:text-emerald-300 transition-colors duration-300 font-semibold text-base lg:text-lg"
                       >
                         8432465868
@@ -764,14 +764,14 @@ export default function CareerWebsite() {
                     </div>
                     <div className="flex gap-2 lg:gap-3">
                       <a
-                        href="tel:84324 65868"
+                        href="tel:+9184324 65868"
                         className="flex items-center space-x-2 bg-emerald-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-emerald-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
                       >
                         <Phone className="w-3 h-3 lg:w-4 lg:h-4" />
                         <span>Call</span>
                       </a>
                       <a
-                        href="https://wa.me/84324 65868"
+                        href="https://wa.me/+9184324 65868"
                         target="_blank"
                         className="flex items-center space-x-2 bg-green-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-green-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
                         rel="noreferrer"
@@ -810,7 +810,7 @@ export default function CareerWebsite() {
                         <span>Call</span>
                       </a>
                       <a
-                        href="https://wa.me/7841916689"
+                        href="https://wa.me/+917841916689"
                         target="_blank"
                         className="flex items-center space-x-2 bg-green-500 text-white px-3 py-2 lg:px-4 lg:py-2 rounded-lg hover:bg-green-600 transition-all duration-300 transform hover:scale-105 text-sm lg:text-base"
                         rel="noreferrer"
@@ -1340,6 +1340,7 @@ function SubmitInquiryButton() {
     );
 
 }
+
 
 
 
