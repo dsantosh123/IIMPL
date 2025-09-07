@@ -998,10 +998,10 @@ export default function CareerWebsite() {
                 <div className="flex items-center space-x-3">
                   <Phone className="w-4 h-4 lg:w-5 lg:h-5 text-emerald-400" />
                   <a
-                    href="tel:8975747102"
+                    href="tel:+7841916689"
                     className="text-emerald-400 hover:text-emerald-300 transition-colors duration-300 text-sm lg:text-base"
                   >
-                    8975747102
+                    7841916689
                   </a>
                 </div>
                 <div className="flex items-center space-x-3">
@@ -1339,15 +1339,3 @@ function SubmitInquiryButton() {
     );
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
